@@ -20,7 +20,7 @@ test_percentage = 0.1
 validation_percentage = 0.1
 
 # read data from csv file instead (dataset available in github)
-data = pd.read_csv('/home/ali/PycharmProjects/text_classification/data/spam_text/Data.csv')
+data = pd.read_csv('directory/of/your/data/spam_text/Data.csv')
 X = data.Message.values
 y = data.Category.values
 
