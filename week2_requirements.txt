@@ -1,7 +1,0 @@
-pandas
-nltk
-jupyter
-contractions
-textblob
-scikit-learn
-matplotlib
