@@ -3,4 +3,11 @@ This repository provides methods and workshops of Natural Language Processing (N
 
 ![Image showing diagram mapping a character to an ASCII and binary representation](https://editor.analyticsvidhya.com/uploads/49583NLP-scaled-1-2048x771.jpeg)
 
-
+Week 2 Requirements 
+pandas
+nltk
+jupyter
+contractions
+textblob
+scikit-learn
+matplotlib
