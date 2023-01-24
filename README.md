@@ -3,7 +3,7 @@ This GitHub repository is a collection of resources and tutorials for Natural La
 
 ![Image showing diagram mapping a character to an ASCII and binary representation](https://editor.analyticsvidhya.com/uploads/49583NLP-scaled-1-2048x771.jpeg)
 
-## Installation
+## Usage
 
 Instructions for using the NLP GitHub repository:
 
